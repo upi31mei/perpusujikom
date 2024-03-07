@@ -1,0 +1,102 @@
+.btntambah{
+	background-color: #336699;
+	color: white;
+	width: 120px;
+	height: 40px;
+	font-size: 1em;
+}
+.btntambah:hover {
+	background:#6D849C;
+	color: white;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+.btnsimpan{
+	background: #336699;
+	border-radius: 5px;
+	padding: 5px;
+	font-family: tahoma;
+	text-decoration: none;
+	width: 20%;
+	color: #fff;
+	left:67%;
+	border: none;
+
+}
+.lh {
+	margin:2px;
+}
+.btnsimpan:hover {
+	background:#6D849C;
+	text-transform: uppercase;
+
+}
+.btnsimpan{
+	background: #336699;
+	border-radius: 5px;
+	padding: 5px;
+	font-family: tahoma;
+	text-decoration: none;
+	width: 20%;
+	color: #fff;
+	left:67%;
+	border: none;
+
+}
+.btnsimpan:hover {
+	background:#6D849C;
+	text-transform: uppercase;
+
+}
+
+.btnrekap{
+	background: #336699;
+	border-radius: 5px;
+	padding: 5px;
+	font-family: tahoma;
+	text-decoration: none;
+	width: 10%;
+	color: #fff;
+	position: absolute;
+	left:67%;
+	border: none;
+
+}
+.btnrekap:hover {
+	background:#6D849C;
+	text-transform: uppercase;
+
+}
+.btnprint{
+	background: #336699;
+	padding: 5px;
+	font-family: tahoma;
+	text-decoration: none;
+	width: 12%;
+	color: #fff;
+	border: none;
+
+}
+.btnprint:hover {
+	background:#6D849C;
+	text-transform: uppercase;
+
+}
+
+.btncari{
+	background-color: #336699;
+	color: white;
+	border-radius: 5px;
+	width: 80px;
+	height: 38px;
+	font-size: 1em;
+}
+.btncari:hover {
+	background:#6D849C;
+	color: white;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+
+
+

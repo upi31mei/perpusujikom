@@ -1,0 +1,19 @@
+h1 {
+	background-color:;
+	font-family: serif;
+	font-size: 2em;
+	text-align: center;
+	text-transform: uppercase;
+}
+th {
+	background: #1e6db6;
+	color: #fff;
+	text-transform: uppercase;
+	
+}
+.table {
+	font-size: 1em;
+	width: 100%;
+}
+
+

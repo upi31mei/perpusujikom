@@ -1,0 +1,19 @@
+body {
+	font-family: sans-serif;
+}
+strong {
+	font-size: 18px;
+	display: inline-block;
+	font-weight: 700;
+	flex-wrap: wrap;
+	text-transform: uppercase;
+	justify-content: space-between;
+}
+
+input {
+	padding: 2px;
+}
+
+.btnlihat {
+	padding: 2px 20px 2px 20px;
+}
